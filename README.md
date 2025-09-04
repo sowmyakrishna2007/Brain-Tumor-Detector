@@ -1,0 +1,1 @@
+Brain Tumor Detector - a project that utlizes computer vision to analyze an MRI scan of a brain and determine whether it has a tumor. I utilized TensorFlow to create a classification model from a through dtatset of images, then implemented a frontend application using Python's tkinter.
